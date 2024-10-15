@@ -14,15 +14,22 @@
     "generate": "plop --plopfile generators/plopfile.js"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
     "@mui/material": "^5.15.5",
+    "@mui/x-charts": "^7.20.0",
+    "@mui/x-date-pickers": "^7.20.0",
     "axios": "^1.6.5",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
+    "date-fns": "^4.1.0",
+    "dayjs": "^1.11.13",
     "express": "^4.18.2",
     "next": "^14.0.4",
     "next-auth": "^4.24.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "recharts": "^2.13.0",
     "sharp": "^0.33.2",
     "styled-components": "^6.1.8"
   },
